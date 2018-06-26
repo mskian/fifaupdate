@@ -1,6 +1,8 @@
 # FIFA 2018 Scores CLI
 
-Code Inspired from https://github.com/johnbfox/world-cup-scores-cli (I clone and Modified this for Learning Purpose)
+Get FIFA 2018 World Cup Scores ⚽
+
+> Code Inspired from https://github.com/johnbfox/world-cup-scores-cli (I clone and Modified this for Learning Purpose)
 
 <p><img src="images/fifscore-cli-msk1.png" alt="fifa 2018"></p>
 
