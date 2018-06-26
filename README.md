@@ -5,7 +5,7 @@ Code Inspired from https://github.com/johnbfox/world-cup-scores-cli (I clone and
 ## Installing
 
 ```sh
-git clone https://github.com/mskian/fifaupdate
+git clone https://github.com/mskian/fifaupdate.git
 cd fifaupdate
 ```
 
@@ -21,7 +21,7 @@ npm install
 sudo npm link
 ```
 
-## Runnling
+## Running
 
 ```sh
 fifascore
