@@ -2,6 +2,8 @@
 
 Code Inspired from https://github.com/johnbfox/world-cup-scores-cli (I clone and Modified this for Learning Purpose)
 
+<img src="images/fifscore-cli-msk1.png" alt="fifa 2018">
+
 ## Installing
 
 ```sh
