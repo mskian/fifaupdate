@@ -53,5 +53,5 @@ NGA 0 - ARG 0  :: 11:30 PM
 --------------------------------------
 ```
 
-*** Credits to estiens for the killer api
-https://github.com/estiens/world_cup_json
+**Credits to estiens for the killer api
+https://github.com/estiens/world_cup_json**
