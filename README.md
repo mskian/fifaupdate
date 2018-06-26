@@ -7,26 +7,13 @@ Code Inspired from https://github.com/johnbfox/world-cup-scores-cli (I clone and
 ## Installing
 
 ```sh
-git clone https://github.com/mskian/fifaupdate.git
-cd fifaupdate
-```
-
-## Install NPM
-
-```sh
-npm install
-```
-
-## Link NPM and Bash
-
-```sh
-sudo npm link
+sudo npm i fifa-wcscores -g
 ```
 
 ## Running
 
 ```sh
-fifascore
+fifatoday
 ```
 
 ```sh
