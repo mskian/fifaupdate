@@ -6,6 +6,7 @@ Code Inspired from https://github.com/johnbfox/world-cup-scores-cli (I clone and
 
 ```sh
 git clone https://github.com/mskian/fifaupdate
+cd fifaupdate
 ```
 
 ## Install NPM
