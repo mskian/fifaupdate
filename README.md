@@ -7,7 +7,7 @@ Code Inspired from https://github.com/johnbfox/world-cup-scores-cli (I clone and
 ## Installing
 
 ```sh
-sudo npm i fifa-wcscores -g
+npm install -g fifa-wcscores
 ```
 
 ## Running
