@@ -2,7 +2,7 @@
 
 Code Inspired from https://github.com/johnbfox/world-cup-scores-cli (I clone and Modified this for Learning Purpose)
 
-<center><img src="images/fifscore-cli-msk1.png" alt="fifa 2018"></p></center>
+<p><img src="images/fifscore-cli-msk1.png" alt="fifa 2018"></p>
 
 ## Installing
 
