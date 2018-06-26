@@ -1,4 +1,4 @@
-# FIFA 2018 Scores CLI
+# FIFA 2018 World Cup Scores CLI
 
 Get FIFA 2018 World Cup Scores ⚽
 
