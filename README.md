@@ -14,13 +14,13 @@ git clone https://github.com/mskian/fifaupdate
 npm install
 ```
 
-##Link NPM and Bash
+## Link NPM and Bash
 
 ```sh
 sudo npm link
 ```
 
-##Runnling
+## Runnling
 
 ```sh
 fifascore
