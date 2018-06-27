@@ -1,6 +1,6 @@
 {
   "name": "fifa-wcscores",
-  "version": "1.0.9",
+  "version": "1.10.0",
   "description": "FIFA 2018 World Cup Live Scores",
   "main": "index.js",
   "dependencies": {
